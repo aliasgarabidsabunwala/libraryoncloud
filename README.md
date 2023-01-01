@@ -15,3 +15,11 @@ Primary Azure Technology: App Service, Web Apps
 Project Demo link: https://libraryoncloud.azurewebsites.net
 
 Project Demo Video Link: https://youtube.com/shorts/XCUJdwDDDOg
+
+Deployment Steps:
+1. Make a resource group
+2. Select Web App with language as Python and configure it
+3. Create a CI/CD Pipeline using GitHub
+4. Configure the yaml file to run and deploy builds on Linux
+5. Comit, wait for build to complete
+6. Hurray, go to demo link and view your creativity 🥳 🎉
