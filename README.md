@@ -1,4 +1,4 @@
-# library on Cloud
+# Library On Cloud
 
 Industry: Ed-Tech
 
@@ -12,6 +12,6 @@ You can access any book in a specific library hosted on cloud to get access to i
 
 Primary Azure Technology: App Service, Web Apps
 
-Project Demo link: https:/libraryoncloud.azurewebsites.net
+Project Demo link: https://libraryoncloud.azurewebsites.net
 
 Project Demo Video Link: https://youtube.com/shorts/XCUJdwDDDOg
